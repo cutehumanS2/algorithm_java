@@ -1,4 +1,4 @@
-// 백준 11720번
+package 배열과리스트;// 백준 11720번
 import java.util.Scanner;
 
 public class P11720_숫자의합구하기{

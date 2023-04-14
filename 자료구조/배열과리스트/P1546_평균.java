@@ -1,3 +1,5 @@
+package 배열과리스트;
+
 import java.util.Scanner;
 
 public class P1546_평균{
